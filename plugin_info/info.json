@@ -1,7 +1,9 @@
 {
   "id": "alexaspotify",
-  "name": "Alexa - Spotify",
-  "description": "Interface Spotify",
+  "name": "Alexa - Spotify (obsolète)",
+  "deprecated": true,
+  "replacedBy": "alexaapiv2",
+  "description": "OBSOLÈTE : dépend d'Alexa - API, remplacé par Alexa Premium (alexaapiv2). Interface Spotify",
   "licence": "AGPL",
   "author": "Sigalou",
   "require": "3.3.24",
